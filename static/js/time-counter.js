@@ -2,7 +2,7 @@
 
 $(document).ready(function() {
   function makeTimer() {
-    var endTime = new Date("may 15, 2022 02:15:13");
+    var endTime = new Date("may 10, 2022 05:0:00");
     var endTime = (Date.parse(endTime)) / 1000;
     var now = new Date();
     var now = (Date.parse(now) / 1000);
